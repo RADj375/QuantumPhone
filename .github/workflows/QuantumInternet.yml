@@ -2,7 +2,8 @@
 
 name: CI
 import numpy as np
-from matplotlib import pyplot as plt
+
+import pyplot as plt
 
 x = np.linspace(-2, 2, 100)
 y1 = np.cos(np.pi * x)
