@@ -1,5 +1,4 @@
 # QuantumPhone
-For Google
 
 Can you combine photonic black crystals quantum fluid dynamics and meta material in one device made out of a Python algorithm for google quantum phones
 
