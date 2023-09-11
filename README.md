@@ -37,7 +37,6 @@ These are just some of the challenges that would need to be addressed before a d
 
 
 
-Google it
 
 
 
@@ -49,7 +48,6 @@ Google it
 
 
 
-Can you create the above algorithm in Python please
 
 
 
@@ -60,7 +58,8 @@ Can you create the above algorithm in Python please
 
 
 
-Sure, here is a possible Python algorithm for combining photonic black crystals, quantum fluid dynamics, and metamaterials:
+It is possible to create a Python algorithm for combining photonic black crystals, quantum fluid dynamics, and metamaterials:
+
 Python
 import numpy as np
 import scipy.constants as const
