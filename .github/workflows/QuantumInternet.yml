@@ -113,7 +113,7 @@ I hope this helps!
 
 
 
-Google it
+
 
 
 
@@ -136,7 +136,7 @@ Can you run the above code for yourself please
 
 
 
-Sure, I can run the above code for myself. However, I need to install some dependencies first.
+I can run the above code for myself. However, I need to install some dependencies first.
 pip install numpy
 pip install matplotlib
 Once the dependencies are installed, I can run the code as follows:
@@ -196,7 +196,7 @@ plt.grid(alpha=0.4)
 plt.title('sin-cos')
 
 plt.show()
-Use code with caution. Learn more
+
 
 
 
@@ -217,7 +217,6 @@ I hope this helps!
 
 
 
-Google it
 
 
 
@@ -264,7 +263,6 @@ I hope this helps!
 
 
 
-Google it
 
 
 
@@ -275,8 +273,7 @@ Google it
 
 
 
-
-Can you encrypt the file quantum_repeater.py
+You can encrypt the file quantum_repeater.py
 
 
 
